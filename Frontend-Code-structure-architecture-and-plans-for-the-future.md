@@ -6,8 +6,9 @@ Grafana 的前端是单页应用, 采用 Angular, React 和 Sass 编写. 使用 
 
 ## 结构
 前端代码放在 public 目录下
+
 | 位置 | 描述 |
-| ------ | ------ |
+| :------ | :------ |
 | app/app.ts | 这个是 Angular 应用的自举代码 |
 | app/sass | 前端样式 |
 | app/core | 公共组件和服务 |
