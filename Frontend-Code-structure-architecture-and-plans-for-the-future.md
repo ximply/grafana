@@ -14,7 +14,7 @@ Grafana 的前端是单页应用, 采用 Angular, React 和 Sass 编写. 使用 
 | app/core | 公共组件和服务 |
 | app/features | 按功能来划分的组件和服务 |
 | app/routes | URL -> Angular 或 React 的组件映射 |
-| app/stores | 移动端存储 |
+| app/stores | MobX应用状态存储 |
 | app/plugins | 所有的内置插件(面板,数据源) |
 | app/containers | React 容器和容器专用的组件 |
 
