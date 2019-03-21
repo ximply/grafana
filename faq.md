@@ -1,4 +1,4 @@
-## FAQ
+# FAQ [原文](https://github.com/grafana/grafana/wiki/FAQ)
 
 Marcelo de Moraes Serpa 于2018.4.25编辑本页面
 
