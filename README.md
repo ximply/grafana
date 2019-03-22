@@ -9,5 +9,6 @@ grafana wiki &amp; docs translations for zh-cn
 - [前端:代码结构，架构和未来计划](https://github.com/ximply/grafana/blob/master/Frontend-Code-structure-architecture-and-plans-for-the-future.md)
 
 ## Docs (基于v6.0版本的官方文档)
+***注: What’s New in Grafana, Contribute, Grafana Enterprise 这几个章节不做翻译***
 - [安装](https://github.com/ximply/grafana/blob/master/docs-installation.md)
 - [管理](https://github.com/ximply/grafana/blob/master/docs-administration.md)
