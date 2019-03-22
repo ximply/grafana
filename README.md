@@ -13,4 +13,5 @@ grafana wiki &amp; docs translations for zh-cn
 * 安装
   * [在 Debian/Ubuntu 上安装](https://github.com/ximply/grafana/blob/master/docs-installation-debian-ubuntu.md)
   * [在基于RPM的Linux上安装(CentOS,Fedora,OpenSuse,RedHat)](https://github.com/ximply/grafana/blob/master/docs-installation-rpm-based-linux-centos-fedora-opensuse-redhat.md)
+  * [在Windows上安装](https://github.com/ximply/grafana/blob/master/docs-installation-windows.md)
 * 管理
