@@ -12,4 +12,4 @@ grafana wiki &amp; docs translations for zh-cn
 ***注: What’s New in Grafana, Contribute, Grafana Enterprise 这几个章节不做翻译***
 * 安装
   * [在 Debian/Ubuntu 上安装](https://github.com/ximply/grafana/blob/master/docs-installation-debian-ubuntu.md)
-- [管理](https://github.com/ximply/grafana/blob/master/docs-administration.md)
+* 管理
