@@ -15,4 +15,5 @@ grafana wiki &amp; docs translations for zh-cn
   * [在基于RPM的Linux上安装(CentOS,Fedora,OpenSuse,RedHat)](https://github.com/ximply/grafana/blob/master/docs-installation-rpm-based-linux-centos-fedora-opensuse-redhat.md)
   * [在Windows上安装](https://github.com/ximply/grafana/blob/master/docs-installation-windows.md)
   * [在Mac上安装](https://github.com/ximply/grafana/blob/master/docs-installation-mac.md)
+  * [使用Docker安装](https://github.com/ximply/grafana/blob/master/docs-installation-using-docker.md)
 * 管理
