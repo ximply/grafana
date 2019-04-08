@@ -16,4 +16,5 @@ grafana wiki &amp; docs translations for zh-cn
   * [在Windows上安装](https://github.com/ximply/grafana/blob/master/docs-installation-windows.md)
   * [在Mac上安装](https://github.com/ximply/grafana/blob/master/docs-installation-mac.md)
   * [使用Docker安装](https://github.com/ximply/grafana/blob/master/docs-installation-using-docker.md)
+  * [从源码构建](https://github.com/ximply/grafana/blob/master/docs-installation-build-from-sources.md)
 * 管理
