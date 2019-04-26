@@ -19,3 +19,4 @@ grafana wiki &amp; docs translations for zh-cn
   * [从源码构建](https://github.com/ximply/grafana/blob/master/docs-installation-build-from-sources.md)
   * [升级](https://github.com/ximply/grafana/blob/master/docs-installation-upgrading.md)
 * 管理
+  * [配置](https://github.com/ximply/grafana/blob/master/docs-administration-configuration.md)
