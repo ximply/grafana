@@ -22,6 +22,7 @@ grafana wiki &amp; docs translations for zh-cn
   * [配置](https://github.com/ximply/grafana/blob/master/docs-administration-configuration.md)
   * 认证
     * [概述](https://github.com/ximply/grafana/blob/master/docs-administration-auth-overview.md)
+    * [认证代理](https://github.com/ximply/grafana/blob/master/docs-administration-auth-auth-proxy.md)
 
 ## 其他
 - [Grafana数据源开发方案的一种替代实现(纯后端)](https://github.com/ximply/grafana/blob/master/datasource-plugin-dev.md)
