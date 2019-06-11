@@ -28,6 +28,7 @@ grafana wiki &amp; docs translations for zh-cn
     * [通用认证授权](https://github.com/ximply/grafana/blob/master/docs-administration-auth-generic-auth.md)
     * [谷歌](https://github.com/ximply/grafana/blob/master/docs-administration-auth-google.md)
     * [GitHub](https://github.com/ximply/grafana/blob/master/docs-administration-auth-github.md)
+    * [GitLab](https://github.com/ximply/grafana/blob/master/docs-administration-auth-gitlab.md)
 
 ## 其他
 - [Grafana数据源开发方案的一种替代实现(纯后端)](https://github.com/ximply/grafana/blob/master/datasource-plugin-dev.md)
